@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1691519397 source:c:\users\leand\documents\unlam\zzportafoliogithub\proyectos c\proyectos\clubes\clubes\clubes.c
+	<stdio.h>
+	<string.h>
+	<locale.h>
+	<windows.h>
+	"Clubes.h"
+
+1691519352 c:\users\leand\documents\unlam\zzportafoliogithub\proyectos c\proyectos\clubes\clubes\clubes.h
+	<stdio.h>
+	<string.h>
+	<locale.h>
+	<windows.h>
+
+1691518626 source:c:\users\leand\documents\unlam\zzportafoliogithub\proyectos c\proyectos\clubes\clubes\main.c
+	<stdio.h>
+	<string.h>
+	<locale.h>
+	<windows.h>
+	"Clubes.h"
+

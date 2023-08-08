@@ -1,0 +1,6 @@
+Se debe fusionar los archivos de los socios del club A (binario) y los del club B (txt) en un nuevo archivo.
+La estructura del archivo fusionado es la del archivo de socios del club A.
+El código de socio en el archivo fusionado debe incluir el club de donde proviene. Existen socios que se encuentran en
+los 2 clubes. Ej: socio 1 del club A, el código resultante es 1-A. El código del socio 2, que está en los 2 clubes
+queda 2-AB.
+La antigüedad se toma la mayor.

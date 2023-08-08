@@ -1,0 +1,7 @@
+16001129|Wilkerson Berk|10
+16200214|Clark Scott|20
+16230902|Boyd Chaney|1
+16860403|Gibbs Clinton|9
+16870210|Cole Coby|4
+16900207|Gallegos Nash|1
+99999999|Jake Domm|90
